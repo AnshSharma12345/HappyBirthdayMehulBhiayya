@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    color: #fff;
+}
+.back{
+     width: 100%;
+    height: 100vh;
+    position: fixed;
+ background-image:url(Wood%20and%20Presents%20Background%20Picture.jpg) 
+      background-size: fullscreen;
+    z-index: -100;
+}
+   
